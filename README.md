@@ -1,6 +1,6 @@
 # Welcome to my GitHub page. 
 
-## Here I post work on computer science, machine learning, and combinatorics.
+## Here I post work on computer science, machine learning, and mathematics.
 
 In terms of machine learning I am most proud of my work in the `MNISTfromScratch` repo, where I programmed a neural network with just NumPy. This work closely follows Michael Nielsen's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) textbook, and allowed me to get a much better understanding of back propogation.  
 
