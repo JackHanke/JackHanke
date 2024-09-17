@@ -1,10 +1,10 @@
 # Welcome to my GitHub page. 
 
-## Here I post work on computer science, machine learning, and mathematics.
+## I usually commit work on machine learning and mathematics. I also have a passion for educational outreach on these topics. 
 
 In terms of machine learning I am most proud of my work in the `MNISTfromScratch` repo, where I programmed a neural network with just NumPy. This work closely follows Michael Nielsen's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) textbook, and allowed me to get a much better understanding of back propogation.  
 
-In terms of combinatorics, I am most proud of my work in the `minimal-insribed-polyforms` repo, where I enumerated many different [minimal inscribed polyforms](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1938&context=srhonors_theses). Some of these enumerations can be found on the [OEIS](https://oeis.org/) ([A356888](https://oeis.org/search?q=A356888&language=english&go=Search) and [A356889](https://oeis.org/search?q=A356889&language=english&go=Search)).
+In terms of mathematics, I am most proud of my work in the `minimal-insribed-polyforms` repo, where I enumerated many different [minimal inscribed polyforms](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1938&context=srhonors_theses). Some of these enumerations can be found on the [OEIS](https://oeis.org/) ([A356888](https://oeis.org/search?q=A356888&language=english&go=Search) and [A356889](https://oeis.org/search?q=A356889&language=english&go=Search)).
 
 In terms of outreach, I am most proud of my work in the `mosaics` repo, where I enumerated the number of mosaics in the $n \times 2$ and $n \times 3$ retangular lattice. If we let $t_{n,2}$ denote the number of mosaics in the $n\times 2$ grid, then we have
 
