@@ -4,7 +4,7 @@
 
 In terms of machine learning I am most proud of my work in the `nets` repo, where I program various neural network based models using just NumPy.   
 
-In terms of mathematics, I am most proud of my work in the `minimal-insribed-polyforms` repo, where I enumerate many different [minimal inscribed polyforms](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1938&context=srhonors_theses). Some of these enumerations can be found on the [OEIS](https://oeis.org/) ([A356888](https://oeis.org/search?q=A356888&language=english&go=Search) and [A356889](https://oeis.org/search?q=A356889&language=english&go=Search)).
+In terms of mathematics, I am most proud of my work in the `minimal-insribed-polyforms` repo, where I enumerate many different [minimal inscribed polyforms](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1938&context=srhonors_theses). Some of these enumerations can be found on the [OEIS](https://oeis.org/) ([A356888](https://oeis.org/search?q=A356888&language=english&go=Search) and [A356889](https://oeis.org/search?q=A356889&language=english&go=Search)). Below is one of my favorite examples of a set of minimal inscribed polyforms.
 
 ![](./images/hex.gif "Minimal Inscribed Polyform")
 
