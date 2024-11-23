@@ -6,7 +6,9 @@ In terms of machine learning I am most proud of my work in the `nets` repo, wher
 
 In terms of mathematics, I am most proud of my work in the `minimal-insribed-polyforms` repo, where I enumerate many different [minimal inscribed polyforms](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1938&context=srhonors_theses). Some of these enumerations can be found on the [OEIS](https://oeis.org/) ([A356888](https://oeis.org/search?q=A356888&language=english&go=Search) and [A356889](https://oeis.org/search?q=A356889&language=english&go=Search)). Below is one of my favorite examples of a set of minimal inscribed polyforms.
 
-![](./images/hex.gif "Minimal Inscribed Polyform")
+<p align="center">
+  <img src="./images/hex.gif" width="400" />
+</p>
 
 In terms of outreach, I am most proud of my work in the `mosaics` repo, where I enumerate the number of mosaics in the $n \times 2$ and $n \times 3$ retangular lattice. If we let $t_{n,2}$ denote the number of mosaics in the $n\times 2$ grid, then we have
 
