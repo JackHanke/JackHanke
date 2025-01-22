@@ -17,7 +17,7 @@ In terms of mathematics, I am most proud of my work in the `minimal-insribed-pol
 
 I showed that the number of minimal inscribed polyforms $s_n$ for the analagous triangle of size $n$ is 
 
-$$s_n = \sum_{i=0}^n \binom{2(n-1)}{n-1} - \sum_{k=0}^{n-2}\binom{2k}{k}.$$
+$$s_n = \binom{2(n-1)}{n-1} - \sum_{k=0}^{n-2}\binom{2k}{k}.$$
 
 
 In terms of outreach, I am most proud of my work in the `mosaics` repo, where I enumerate the number of mosaics in the $n \times 2$ and $n \times 3$ retangular lattice. If we let $t_{n,2}$ denote the number of mosaics in the $n\times 2$ grid, then we have
