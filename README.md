@@ -2,7 +2,7 @@
 
 ## I usually commit work on machine learning and mathematics. I also have a passion for educational outreach on these topics. 
 
-In terms of machine learning I am most proud of my work in the `nets` repo, where I program various neural network based models using just `NumPy`. The model architectures implemented from scratch are:
+In terms of machine learning I am most proud of my work in the `nets` repo, where I program the following neural network architectures just using `NumPy`:
 - ✅ Artificial Neural Network (ANN)
 - ✅ Autoencoder (AE)
 - ✅ Variational Autoencoder (VAE)
