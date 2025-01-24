@@ -1,4 +1,4 @@
-# Welcome to my GitHub page. 
+# Welcome to my GitHub page 👾. 
 
 ## I usually commit work on machine learning and mathematics. I also have a passion for educational outreach on these topics. 
 
