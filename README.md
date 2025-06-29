@@ -3,10 +3,12 @@
 ## I usually commit work on machine learning and mathematics. I also have a passion for educational outreach on these topics. 
 
 In terms of machine learning I am most proud of my work in the `nets` repo, where I program the following neural network architectures just using `NumPy`:
-- ✅ Artificial Neural Network (ANN)
-- ✅ Autoencoder (AE)
-- ✅ Variational Autoencoder (VAE)
-- ✅ Latent Denoising Diffusion Model (LDDPM)
+- ✔️ Artificial Neural Network (ANN)
+- ✔️ Autoencoder (AE)
+- ✔️ Variational Autoencoder (VAE)
+- ✔️ Latent Denoising Diffusion Model (LDDPM)
+- ✔️ Multi Head Attention (MHA)
+- ✔️ Temporal Difference Agent (TD Agent), in `2048rl` repo
 
 
 In terms of mathematics, I am most proud of my work in the `minimal-insribed-polyforms` repo, where I enumerate many different [minimal inscribed polyforms](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1938&context=srhonors_theses). Some of these enumerations can be found on the [OEIS](https://oeis.org/) ([A356888](https://oeis.org/search?q=A356888&language=english&go=Search) and [A356889](https://oeis.org/search?q=A356889&language=english&go=Search)). Below is one of my favorite examples of a set of minimal inscribed polyforms, an $n=5$ triangle of hexagons, .
