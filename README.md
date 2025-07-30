@@ -1,6 +1,6 @@
-# Welcome to my GitHub page 👾
+# Hi, I'm Jack Hanke. Welcome to my GitHub page! 👾
 
-## I usually commit work on machine learning and mathematics. I also have a passion for educational outreach on these topics.
+## I have a passion for machine learning, mathematics, and educational outreach.
 
 In terms of machine learning I am most proud of my work in the `nets` repo, where I program the following neural network architectures just using `NumPy`:
 - ✔️ Artificial Neural Network (ANN)
